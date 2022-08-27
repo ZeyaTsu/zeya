@@ -1,4 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+header
+{
+    font-family: Rubik;
+    color: blue;
+    text-align: center;
+    padding: 250px;
+    
+}
+
 h1
 {
-    text-align: center;
+    font-size: 100px;
+}
+
+#gradev
+{
+    font-size: 30px;
+    
 }
