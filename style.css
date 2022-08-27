@@ -4,6 +4,8 @@ header
 {
     font-family: Rubik;
     color: blue;
+    opacity: 1;
+    transition: 0.3s;
     text-align: center;
     padding: 250px;
     
@@ -16,6 +18,26 @@ h1
 
 #gradev
 {
-    font-size: 30px;
     
+    font-size: 30px;
+    margin-bottom: 500px;
+    margin-left: 20px
+    
+}
+
+#gradev a
+{
+    text-decoration: none;
+    
+}
+
+#graph
+{
+    color: #2ecc71;
+}
+
+#dev
+{
+    color: darkorange;
+
 }
