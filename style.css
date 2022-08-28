@@ -33,11 +33,26 @@ h1
 
 #graph
 {
+    
     color: #2ecc71;
+    transition: 0.2s;
+}
+
+#graph:hover
+{
+    color: #57df90;
+    font-size: 40px;
 }
 
 #dev
 {
     color: darkorange;
+    transition: 0.2s;
 
+}
+
+#dev:hover
+{
+    color: rgb(255, 174, 74);
+    font-size: 40px;
 }
