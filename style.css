@@ -21,6 +21,17 @@ h1
     font-size: 100px;
 }
 
+.separation
+{
+    display: flex;
+    margin-left: 23%;
+    height: 5px;
+    width: 1000px;
+    background: rgb(95, 95, 255);
+    border-radius: 50px;
+}
+
+
 #gradev
 {
     
@@ -59,4 +70,24 @@ h1
 {
     color: rgb(255, 174, 74);
     font-size: 40px;
+}
+
+
+.section
+{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.about
+{
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: center;
+    text-justify: auto;
+    color: blue;
+    opacity: 0.8;
+    overflow-wrap: break-word;
 }
