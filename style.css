@@ -2,12 +2,17 @@
 
 header
 {
-    font-family: Rubik;
     color: blue;
     opacity: 1;
     transition: 0.3s;
     text-align: center;
     padding: 250px;
+    
+}
+
+.everything
+{
+    font-family: Rubik, Arial, 'Segoe UI';
     
 }
 
@@ -20,8 +25,7 @@ h1
 {
     
     font-size: 30px;
-    margin-bottom: 500px;
-    margin-left: 20px
+    
     
 }
 
