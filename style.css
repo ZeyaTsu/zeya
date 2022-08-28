@@ -1,4 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+header
+{
+    font-family: Rubik;
+    color: blue;
+    opacity: 1;
+    transition: 0.3s;
+    text-align: center;
+    padding: 250px;
+    
+}
+
 h1
 {
-    text-align: center;
+    font-size: 100px;
+}
+
+#gradev
+{
+    
+    font-size: 30px;
+    margin-bottom: 500px;
+    margin-left: 20px
+    
+}
+
+#gradev a
+{
+    text-decoration: none;
+    
+}
+
+#graph
+{
+    color: #2ecc71;
+}
+
+#dev
+{
+    color: darkorange;
+
 }
