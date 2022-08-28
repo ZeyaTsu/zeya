@@ -8,11 +8,17 @@ header
     text-align: center;
     padding: 250px;
     
+    
 }
 
 .everything
 {
+    
     font-family: Rubik, Arial, 'Segoe UI';
+    min-width: 500px;
+    min-height: 500px;
+    max-width: 1920px;
+    max-height: 1080px;
     
 }
 
@@ -90,4 +96,27 @@ h1
     color: blue;
     opacity: 0.8;
     overflow-wrap: break-word;
+}
+
+.containerimg 
+{
+    
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin-left: 540px;
+    padding-top: 50px;
+    
+    height: 300px;
+    width: 250px;
+    
+    
+}
+
+#img
+{
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
 }
