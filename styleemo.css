@@ -233,8 +233,8 @@
         color: #0062ff;
         font-size: 15px;
         display: flex;
-        margin-left: 45%;
-        margin-right: 45%;
+        margin-left: 15%;
+        margin-right: 15%;
         
         
         
@@ -247,8 +247,8 @@
 
     .emolessabout
     {
-        margin-left: 25%;
-        margin-right: 25%;
+        margin-left: 10%;
+        margin-right: 10%;
         
         text-align: center;
         text-justify: auto;
