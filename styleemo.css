@@ -143,7 +143,7 @@
     header
     {
 
-        position: fixed;
+        position: relative;
         
     }
 
@@ -198,6 +198,12 @@
     }
 
 
+    #logo
+    {
+        position: fixed;
+        transition: 0.2s;
+
+    }
     #logo:hover
     {
         transform: scale(1.5);  
@@ -227,14 +233,18 @@
 
     article h6
     {
-        text-justify: auto;
-        text-align: center;
-        overflow-wrap: break-word;
-        color: #0062ff;
-        font-size: 15px;
         display: flex;
         margin-left: 15%;
         margin-right: 15%;
+        color: #0062ff;
+        overflow-wrap: break-word;
+        text-justify: auto;
+        text-align: center;
+        
+       
+        font-size: 15px;
+        
+        
         
         
         
